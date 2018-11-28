@@ -1,7 +1,3 @@
-window.onload = function(){
-    document.querySelector(".list-group").style.display = 'none';
-}
-
 
 document.getElementById('filter').addEventListener('keyup', filterList);
 
